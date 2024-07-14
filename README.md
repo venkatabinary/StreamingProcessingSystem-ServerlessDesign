@@ -1,4 +1,7 @@
 # StreamingProcessingSystem-ServerlessDesign
+
+Z-scoring algorithm for Anomaly detection, Trending, recommendation, hashtag, deviation from standard, google search trending 
+
 Streaming Processing System Serverless Design
 
 https://aws.amazon.com/blogs/architecture/lets-architect-designing-systems-for-stream-data-processing/
