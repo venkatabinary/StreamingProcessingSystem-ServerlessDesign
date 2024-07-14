@@ -1,6 +1,7 @@
 # StreamingProcessingSystem-ServerlessDesign
 
 <b>Z-scoring algorithm </b>for Anomaly detection, Trending, recommendation, hashtag, deviation from standard, google search trending 
+Trening in social media, linkedin, youtube,etc 
 
 Streaming Processing System Serverless Design
 
